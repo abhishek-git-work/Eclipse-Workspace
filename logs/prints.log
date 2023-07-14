@@ -1,0 +1,14 @@
+22:12:58.081 [main] DEBUG Log4j2.Log4j2_1 - Test execution has started
+22:13:05.400 [main] DEBUG Log4j2.Log4j2_1 - Chrome browser has luanch and maximized
+22:13:11.910 [main] DEBUG Log4j2.Log4j2_1 - amazon website has launch
+22:13:16.978 [main] DEBUG Log4j2.Log4j2_1 - Amazon miniTV tab get clicked
+22:13:20.270 [main] DEBUG Log4j2.Log4j2_1 - back to amazon website home page
+22:13:20.537 [main] INFO  Log4j2.Log4j2_1 - Successful: Title got correct
+22:13:21.251 [main] DEBUG Log4j2.Log4j2_1 - driver closed
+22:15:06.993 [main] DEBUG Log4j2.Log4j2_1 - Test execution has started
+22:15:12.494 [main] DEBUG Log4j2.Log4j2_1 - Chrome browser has luanch and maximized
+22:15:18.032 [main] DEBUG Log4j2.Log4j2_1 - amazon website has launch
+22:15:23.429 [main] DEBUG Log4j2.Log4j2_1 - Amazon miniTV tab get clicked
+22:15:26.710 [main] DEBUG Log4j2.Log4j2_1 - back to amazon website home page
+22:15:26.971 [main] INFO  Log4j2.Log4j2_1 - Successful: Title got correct
+22:15:27.576 [main] DEBUG Log4j2.Log4j2_1 - driver closed
